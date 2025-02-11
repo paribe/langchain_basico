@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "langchain-basico"
+version = "0.1.0"
+description = ""
+authors = ["paribe <paribe@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.3.18"
+openai = "^1.61.1"
+python-dotenv = "^1.0.1"
+langchain-community = "^0.3.17"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,5 @@
+.env
+.venv
+langchain_basico
+tests
+poetry.lock
